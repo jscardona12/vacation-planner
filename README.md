@@ -6,7 +6,7 @@ Website that helps you plan each one of your vacation days.
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.  
 
-git clone https://github.com/adelavegaf/vacation-planner.git  
+git clone https://github.com/jscardona12/vacation-planner.git  
 run on Glassfish 4.0 
 
 ### Prerequisites
