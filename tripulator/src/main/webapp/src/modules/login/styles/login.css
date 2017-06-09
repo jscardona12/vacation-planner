@@ -1,0 +1,17 @@
+md-input-container {
+    margin: 5px !important;
+}
+
+.special-padding {
+    padding-bottom: 0px;
+    padding-top: 0px;
+}
+
+.title {
+    color: rgb(7, 41, 63);
+}
+
+.home-background {
+    background-image: url('../../../../resources/img/backpack.jpg');
+    background-size: cover;
+}
